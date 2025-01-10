@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazim-sadan&label=Profile%20views&color=0e75b6&style=flat" alt="aazim-sadan"  /> </p>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **React, JavaScript, MERN**
 
