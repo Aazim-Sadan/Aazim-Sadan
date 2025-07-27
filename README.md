@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web App Optimization**, focusing on **Lazy Loading**
 
-- 📫 How to reach me **aazimsadan@gmail.com**
+- 📫 How to reach me **aazimsadan99@gmail.com**
   
 <div>
 <a href="https://www.linkedin.com/in/aazim-sadan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
